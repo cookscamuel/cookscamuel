@@ -1,6 +1,6 @@
 ### Hello! I'm Sam.
 
-Since September 2023, I've been studying programming at Nova Scotia Community College. As of June 2025, I'll be gradutated and sent on my own to continue to nurture my passion for creating things. I like to make things simply for the joy of creation. I am passionate about game development and helping others.
+Since September 2023, I've been studying programming at Nova Scotia Community College. As of June 2025, I'll be gradutated and sent on my own to continue to nurture my passion for creating things. I like to make things simply for the joy of creation. I'm passionate about game development and helping others.
 
 <hr/>
 
@@ -35,11 +35,9 @@ You can find several repositories I've contributed to that are publicly availabl
 
 <i>These are some of my favourite languages and technologies to work with!</i>
 
-<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="width:50px; height:60px; margin-right: 1vw;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" style="width:50px; height:60px; margin-right: 1vw;">
 <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" style="width:50px; height:60px; margin-right: 1vw;">
 <img src="https://2ality.com/2011/10/logo-js/js.jpg" style="width:50px; height:50px; margin-right: 1vw;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width:50px; height:50px; margin-right: 1vw;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" style="width:50px; height:50px;">
-</div>
